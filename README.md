@@ -12,4 +12,4 @@ git clone "https://github.com/sudarsankumar/Liquid-image-using-js.git"
 ```
 
 ## demo link
-[Hand movement detector](https://sudarsankumar.github.io/hand-motion-detector/)
+[Liquid Transition in Image](https://sudarsankumar.github.io/Liquid-image-using-js/)
